@@ -1,5 +1,5 @@
 .ipynb_checkpoints
 __pycache__/
-assests
+assests /**
 opencv_env
 opencv1.ipynb
