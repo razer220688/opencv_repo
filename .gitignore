@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 __pycache__/
-.assets/
+assets/
 opencv_env
 opencv1.ipynb
+test.py
